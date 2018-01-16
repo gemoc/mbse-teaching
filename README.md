@@ -1,6 +1,7 @@
 # mbse-teaching
 
-This Web Site just bookmarks some MBSE resources for teachning. You can contribute in proposing new links. 
+This Web Site just bookmarks some MBSE resources for teachning. You can contribute in proposing new links. It is a backend for the following [web site](http://teaching-se.diverse-team.fr/). 
+
 
 - [Intro MBSE](https://combemale.github.io/teaching/m1ice/sysml-intro.pdf)
 - [Exemple de projet réalisé par des étudiants à l'aide de Capella](https://docs.google.com/document/d/1gOKTkq29SlI3dVAIYpyYmNIh06eAz3PeCvyxF93knsg/edit)
